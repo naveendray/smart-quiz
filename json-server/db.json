@@ -1,0 +1,75 @@
+{
+    "questions" : [
+        {
+          "id": 1,
+          "question": "What is the capital of France?",
+          "answers": ["Paris", "London", "Rome", "Berlin"],
+          "correctAnswer": "Paris",
+          "inheritance": "Geography"
+        },
+        {
+          "id": 2,
+          "question": "What is the square root of 16?",
+          "answers": ["4", "9", "12", "15"],
+          "correctAnswer": "4",
+          "inheritance": "Math"
+        },
+        {
+          "id": 3,
+          "question": "What is the first name of the current US president?",
+          "answers": ["Joe", "Donald", "Barack", "Bill"],
+          "correctAnswer": "Joe",
+          "inheritance": "Current Events"
+        },
+        {
+          "id": 4,
+          "question": "What is the chemical formula for water?",
+          "answers": ["H2O", "CO2", "NaCl", "NH3"],
+          "correctAnswer": "H2O",
+          "inheritance": "Science"
+        },
+        {
+          "id": 5,
+          "question": "What is the sum of 1 + 1?",
+          "answers": ["2", "3", "4", "5"],
+          "correctAnswer": "2",
+          "inheritance": "Math"
+        },
+        {
+          "id": 6,
+          "question": "What is the largest planet in the solar system?",
+          "answers": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "correctAnswer": "Jupiter",
+          "inheritance": "Astronomy"
+        },
+        {
+          "id": 7,
+          "question": "What is the capital of India?",
+          "answers": ["New Delhi", "Mumbai", "Chennai", "Kolkata"],
+          "correctAnswer": "New Delhi",
+          "inheritance": "Geography"
+        },
+        {
+          "id": 8,
+          "question": "What is the name of the tallest mountain in the world?",
+          "answers": ["Everest", "K2", "Kangchenjunga", "Lhotse"],
+          "correctAnswer": "Everest",
+          "inheritance": "Geography"
+        },
+        {
+          "id": 9,
+          "question": "What is the name of the largest ocean in the world?",
+          "answers": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+          "correctAnswer": "Pacific Ocean",
+          "inheritance": "Geography"
+        },
+        {
+          "id": 10,
+          "question": "What is the name of the smallest country in the world?",
+          "answers": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
+          "correctAnswer": "Vatican City",
+          "inheritance": "Geography"
+        }
+      ] 
+}
+  
